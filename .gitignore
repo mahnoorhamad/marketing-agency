@@ -1,0 +1,10 @@
+node_modules/
+build/
+dist/
+coverage/
+.aistudio/
+public/assets/aistudio/*Generation_Prompt*.md
+.DS_Store
+*.log
+.env*
+!.env.example
